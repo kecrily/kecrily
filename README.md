@@ -2,5 +2,6 @@
 <p align="center">
   <a href="https://kecrily.me">Website</a> •
   <a href="https://twitter.com/kecrily">Twitter</a> •
-  <a href="https://t.me/kecrily">Telegram</a>
+  <a href="https://t.me/kecrily">Telegram</a> •
+  <a href="https://mastodon.social/@kecrily">Mastodon</a>
 </p>
